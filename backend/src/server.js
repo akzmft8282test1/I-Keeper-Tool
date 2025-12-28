@@ -1,6 +1,8 @@
+import "dotenv/config";
 import app from "./app.js";
-import "dotenv/config"; 
 
-app.listen(3000, () => {
-  console.log("I-Keeper Tool Server Running");
+const PORT = process.env.PORT || 4000;
+
+app.listen(PORT, () => {
+  console.log("Server running on port", PORT);
 });
