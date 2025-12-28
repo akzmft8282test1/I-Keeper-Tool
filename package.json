@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "akzmft8282",
@@ -19,5 +22,6 @@
     "multer": "latest",
     "react-hot-toast": "latest",
     "dotenv": "latest"
+    "vite": "latest",
   }
 }
