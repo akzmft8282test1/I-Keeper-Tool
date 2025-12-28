@@ -1,0 +1,246 @@
+2025-12-28 16:23:49 | INFO | log_action:60 | ACTION: APP_START | Details: 애플리케이션 시작
+2025-12-28 16:23:51 | INFO | log_action:60 | ACTION: UI_CREATED | Details: 사용자 인터페이스 생성 완료
+2025-12-28 16:24:08 | INFO | log_action:60 | ACTION: APP_CLOSING | Details: 세션 통계: {"folders_opened": 0, "files_viewed": 0, "copies_made": 0, "errors_occurred": 0, "files_processed": 0, "files_skipped": 0}
+2025-12-28 16:24:08 | INFO | log_action:60 | ACTION: APP_END | Details: 애플리케이션 종료
+2025-12-28 16:24:30 | INFO | log_action:60 | ACTION: APP_START | Details: 애플리케이션 시작
+2025-12-28 16:24:31 | INFO | log_action:60 | ACTION: UI_CREATED | Details: 사용자 인터페이스 생성 완료
+2025-12-28 16:24:34 | INFO | log_action:60 | ACTION: SETTINGS_OPENED
+2025-12-28 16:25:24 | INFO | log_action:60 | ACTION: SETTINGS_APPLIED | Details: 제외 폴더: 7개, 제외 확장자: 1개, 로그 레벨: INFO
+2025-12-28 16:25:29 | INFO | log_action:60 | ACTION: SETTINGS_OPENED
+2025-12-28 16:25:31 | INFO | log_action:60 | ACTION: SETTINGS_APPLIED | Details: 제외 폴더: 7개, 제외 확장자: 1개, 로그 레벨: INFO
+2025-12-28 16:25:44 | INFO | log_action:60 | ACTION: FOLDER_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool
+2025-12-28 16:25:44 | INFO | log_action:60 | ACTION: TREE_BUILD_START | Details: C:/Users/matim/Documents/I-Keeper Tool
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool | Size: 4096 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src | Size: 4096 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers | Size: 4096 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes | Size: 4096 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\routes | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\utils | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\api | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\logs | Size: 0 bytes | Result: success
+2025-12-28 16:25:44 | INFO | log_action:60 | ACTION: SHOW_ALL_FILES_START | Details: C:/Users/matim/Documents/I-Keeper Tool
+2025-12-28 16:25:52 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/components/FileEditor.jsx
+2025-12-28 16:25:52 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/pages/AdminManage.jsx
+2025-12-28 16:25:52 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/pages/Login.jsx
+2025-12-28 16:25:52 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/pages/Logs.jsx
+2025-12-28 16:25:52 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: logs/folder_viewer_20251228.log
+2025-12-28 16:26:15 | INFO | log_action:60 | ACTION: SHOW_ALL_FILES_COMPLETE | Details: 성공: 26, 실패: 0, 생략: 2
+2025-12-28 16:26:15 | INFO | log_action:60 | ACTION: FOLDER_PROCESSING_COMPLETE | Details: 폴더: C:/Users/matim/Documents/I-Keeper Tool
+2025-12-28 16:26:34 | INFO | log_action:60 | ACTION: APP_START | Details: 애플리케이션 시작
+2025-12-28 16:26:35 | INFO | log_action:60 | ACTION: UI_CREATED | Details: 사용자 인터페이스 생성 완료
+2025-12-28 16:26:37 | INFO | log_action:60 | ACTION: SETTINGS_OPENED
+2025-12-28 16:27:58 | INFO | log_action:60 | ACTION: APP_CLOSING | Details: 세션 통계: {"folders_opened": 0, "files_viewed": 0, "copies_made": 0, "errors_occurred": 0, "files_processed": 0, "files_skipped": 0}
+2025-12-28 16:27:58 | INFO | log_action:60 | ACTION: APP_END | Details: 애플리케이션 종료
+2025-12-28 16:28:10 | INFO | log_action:60 | ACTION: APP_START | Details: 애플리케이션 시작
+2025-12-28 16:28:12 | INFO | log_action:60 | ACTION: UI_CREATED | Details: 사용자 인터페이스 생성 완료
+2025-12-28 16:28:20 | INFO | log_action:60 | ACTION: SETTINGS_OPENED
+2025-12-28 16:28:23 | INFO | log_action:60 | ACTION: APP_CLOSING | Details: 세션 통계: {"folders_opened": 0, "files_viewed": 0, "copies_made": 0, "errors_occurred": 0, "files_processed": 0, "files_skipped": 0}
+2025-12-28 16:28:23 | INFO | log_action:60 | ACTION: APP_END | Details: 애플리케이션 종료
+2025-12-28 16:28:30 | INFO | log_action:60 | ACTION: APP_START | Details: 애플리케이션 시작
+2025-12-28 16:28:31 | INFO | log_action:60 | ACTION: UI_CREATED | Details: 사용자 인터페이스 생성 완료
+2025-12-28 16:29:14 | INFO | log_action:60 | ACTION: SETTINGS_OPENED
+2025-12-28 16:30:32 | INFO | log_action:60 | ACTION: APP_CLOSING | Details: 세션 통계: {"folders_opened": 0, "files_viewed": 0, "copies_made": 0, "errors_occurred": 0, "files_processed": 0, "files_skipped": 0}
+2025-12-28 16:30:32 | INFO | log_action:60 | ACTION: APP_END | Details: 애플리케이션 종료
+2025-12-28 16:30:41 | INFO | log_action:60 | ACTION: APP_START | Details: 애플리케이션 시작
+2025-12-28 16:30:42 | INFO | log_action:60 | ACTION: UI_CREATED | Details: 사용자 인터페이스 생성 완료
+2025-12-28 16:30:45 | INFO | log_action:60 | ACTION: SETTINGS_OPENED
+2025-12-28 16:30:56 | INFO | log_action:60 | ACTION: SETTINGS_OPENED
+2025-12-28 16:31:00 | INFO | log_action:60 | ACTION: SETTINGS_APPLIED | Details: 제외 폴더: 2개, 제외 확장자: 1개, 로그 레벨: INFO
+2025-12-28 16:31:06 | INFO | log_action:60 | ACTION: FOLDER_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool
+2025-12-28 16:31:06 | INFO | log_action:60 | ACTION: TREE_BUILD_START | Details: C:/Users/matim/Documents/I-Keeper Tool
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool | Size: 4096 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src | Size: 4096 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers | Size: 4096 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes | Size: 4096 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\routes | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\utils | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\api | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_file_operation:80 | FILE_OP: LIST_DIRECTORY | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages | Size: 0 bytes | Result: success
+2025-12-28 16:31:06 | INFO | log_action:60 | ACTION: SHOW_ALL_FILES_START | Details: C:/Users/matim/Documents/I-Keeper Tool
+2025-12-28 16:31:12 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/1
+2025-12-28 16:31:12 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/1
+2025-12-28 16:31:13 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/components/FileEditor.jsx
+2025-12-28 16:31:13 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/pages/AdminManage.jsx
+2025-12-28 16:31:13 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/pages/Login.jsx
+2025-12-28 16:31:13 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: frontend/src/pages/Logs.jsx
+2025-12-28 16:31:20 | INFO | log_action:60 | ACTION: SHOW_ALL_FILES_COMPLETE | Details: 성공: 23, 실패: 0, 생략: 4
+2025-12-28 16:31:20 | INFO | log_action:60 | ACTION: FOLDER_PROCESSING_COMPLETE | Details: 폴더: C:/Users/matim/Documents/I-Keeper Tool
+2025-12-28 16:31:59 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components\FileEditor.jsx
+2025-12-28 16:31:59 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components\FileEditor.jsx | Size: 419 bytes | Result: success
+2025-12-28 16:31:59 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components\FileEditor.jsx
+2025-12-28 16:32:01 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: FileEditor.jsx
+2025-12-28 16:33:07 | INFO | log_action:60 | ACTION: COPY_ALL_FILES_TEXT | Details: 길이: 257 문자
+2025-12-28 16:33:10 | INFO | log_action:60 | ACTION: LOG_VIEWER_OPENED
+2025-12-28 16:33:15 | INFO | log_action:60 | ACTION: COPY_TREE | Details: 길이: 755 문자
+2025-12-28 16:33:19 | INFO | log_action:60 | ACTION: COPY_ALL_FILES_TEXT | Details: 길이: 257 문자
+2025-12-28 16:33:43 | INFO | log_action:60 | ACTION: COPY_TREE | Details: 길이: 755 문자
+2025-12-28 16:33:45 | INFO | log_action:60 | ACTION: COPY_TREE | Details: 길이: 755 문자
+2025-12-28 16:33:47 | INFO | log_action:60 | ACTION: COPY_TREE | Details: 길이: 755 문자
+2025-12-28 16:33:53 | INFO | log_action:60 | ACTION: COPY_HTML | Details: 길이: 439 문자
+2025-12-28 16:34:12 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\app.js
+2025-12-28 16:34:12 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\app.js | Size: 234 bytes | Result: success
+2025-12-28 16:34:12 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: app.js
+2025-12-28 16:34:24 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js
+2025-12-28 16:34:24 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js | Size: 51 bytes | Result: success
+2025-12-28 16:34:24 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: jwt.js
+2025-12-28 16:34:28 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js
+2025-12-28 16:34:28 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js | Size: 51 bytes | Result: success
+2025-12-28 16:34:28 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: jwt.js
+2025-12-28 16:34:29 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\supabase.js
+2025-12-28 16:34:29 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\supabase.js | Size: 157 bytes | Result: success
+2025-12-28 16:34:29 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: supabase.js
+2025-12-28 16:34:30 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js
+2025-12-28 16:34:30 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js | Size: 51 bytes | Result: success
+2025-12-28 16:34:30 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: jwt.js
+2025-12-28 16:34:32 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js
+2025-12-28 16:34:40 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\supabase.js
+2025-12-28 16:34:40 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\supabase.js | Size: 157 bytes | Result: success
+2025-12-28 16:34:41 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: supabase.js
+2025-12-28 16:35:12 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js
+2025-12-28 16:35:12 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js | Size: 51 bytes | Result: success
+2025-12-28 16:35:12 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: jwt.js
+2025-12-28 16:35:14 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js
+2025-12-28 16:35:21 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\supabase.js
+2025-12-28 16:35:21 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\supabase.js | Size: 157 bytes | Result: success
+2025-12-28 16:35:21 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: supabase.js
+2025-12-28 16:35:38 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\supabase.js
+2025-12-28 16:36:04 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\admin.controller.js
+2025-12-28 16:36:04 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\admin.controller.js | Size: 989 bytes | Result: success
+2025-12-28 16:36:04 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: admin.controller.js
+2025-12-28 16:36:04 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\admin.controller.js
+2025-12-28 16:36:04 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\admin.controller.js | Size: 989 bytes | Result: success
+2025-12-28 16:36:05 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: admin.controller.js
+2025-12-28 16:36:07 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\admin.controller.js
+2025-12-28 16:36:20 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\auth.controller.js
+2025-12-28 16:36:20 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\auth.controller.js | Size: 781 bytes | Result: success
+2025-12-28 16:36:20 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: auth.controller.js
+2025-12-28 16:36:22 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\auth.controller.js
+2025-12-28 16:36:40 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\file.controller.js
+2025-12-28 16:36:40 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\file.controller.js | Size: 1453 bytes | Result: success
+2025-12-28 16:36:40 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: file.controller.js
+2025-12-28 16:36:40 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\file.controller.js
+2025-12-28 16:36:40 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\file.controller.js | Size: 1453 bytes | Result: success
+2025-12-28 16:36:41 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: file.controller.js
+2025-12-28 16:36:42 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\file.controller.js
+2025-12-28 16:36:55 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\log.controller.js
+2025-12-28 16:36:55 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\log.controller.js | Size: 326 bytes | Result: success
+2025-12-28 16:36:55 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: log.controller.js
+2025-12-28 16:36:57 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\controllers\log.controller.js
+2025-12-28 16:37:03 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\auth.js
+2025-12-28 16:37:03 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\auth.js | Size: 453 bytes | Result: success
+2025-12-28 16:37:03 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: auth.js
+2025-12-28 16:37:03 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\auth.js
+2025-12-28 16:37:03 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\auth.js | Size: 453 bytes | Result: success
+2025-12-28 16:37:04 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: auth.js
+2025-12-28 16:37:16 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\auth.js
+2025-12-28 16:37:35 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\upload.js
+2025-12-28 16:37:35 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\upload.js | Size: 277 bytes | Result: success
+2025-12-28 16:37:35 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: upload.js
+2025-12-28 16:37:35 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\upload.js
+2025-12-28 16:37:35 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\upload.js | Size: 277 bytes | Result: success
+2025-12-28 16:37:36 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: upload.js
+2025-12-28 16:37:37 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\middlewares\upload.js
+2025-12-28 16:37:59 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\admin.routes.js
+2025-12-28 16:37:59 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\admin.routes.js | Size: 374 bytes | Result: success
+2025-12-28 16:37:59 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: admin.routes.js
+2025-12-28 16:38:01 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\admin.routes.js
+2025-12-28 16:38:16 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\auth.routes.js
+2025-12-28 16:38:16 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\auth.routes.js | Size: 183 bytes | Result: success
+2025-12-28 16:38:16 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: auth.routes.js
+2025-12-28 16:38:16 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\auth.routes.js
+2025-12-28 16:38:16 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\auth.routes.js | Size: 183 bytes | Result: success
+2025-12-28 16:38:16 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: auth.routes.js
+2025-12-28 16:38:17 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\auth.routes.js
+2025-12-28 16:38:30 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\file.routes.js
+2025-12-28 16:38:30 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\routes\file.routes.js | Size: 462 bytes | Result: success
+2025-12-28 16:38:30 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: file.routes.js
+2025-12-28 16:38:33 | INFO | log_action:60 | ACTION: COPY_ALL_FILES_TEXT | Details: 길이: 528 문자
+2025-12-28 16:38:47 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\utils\logger.js
+2025-12-28 16:38:47 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\utils\logger.js | Size: 246 bytes | Result: success
+2025-12-28 16:38:48 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: logger.js
+2025-12-28 16:38:48 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\utils\logger.js
+2025-12-28 16:38:48 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\utils\logger.js | Size: 246 bytes | Result: success
+2025-12-28 16:38:48 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: logger.js
+2025-12-28 16:38:50 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\utils\logger.js
+2025-12-28 16:39:02 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js
+2025-12-28 16:39:03 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\config\jwt.js | Size: 51 bytes | Result: success
+2025-12-28 16:39:03 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: jwt.js
+2025-12-28 16:39:03 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\app.js
+2025-12-28 16:39:03 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\app.js | Size: 234 bytes | Result: success
+2025-12-28 16:39:03 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: app.js
+2025-12-28 16:39:05 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\app.js
+2025-12-28 16:39:16 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\server.js
+2025-12-28 16:39:16 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\server.js | Size: 110 bytes | Result: success
+2025-12-28 16:39:17 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: server.js
+2025-12-28 16:39:17 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\server.js
+2025-12-28 16:39:17 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\backend\src\server.js | Size: 110 bytes | Result: success
+2025-12-28 16:39:17 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: server.js
+2025-12-28 16:39:18 | INFO | log_action:60 | ACTION: COPY_TREE | Details: 길이: 755 문자
+2025-12-28 16:39:20 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\backend\src\server.js
+2025-12-28 16:39:45 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\api\api.js
+2025-12-28 16:39:45 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\api\api.js | Size: 223 bytes | Result: success
+2025-12-28 16:39:45 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: api.js
+2025-12-28 16:39:47 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\api\api.js
+2025-12-28 16:39:52 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components\FileEditor.jsx
+2025-12-28 16:39:52 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components\FileEditor.jsx | Size: 419 bytes | Result: success
+2025-12-28 16:39:52 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components\FileEditor.jsx
+2025-12-28 16:39:52 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: FileEditor.jsx
+2025-12-28 16:40:00 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\components\FileEditor.jsx
+2025-12-28 16:40:09 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\AdminManage.jsx
+2025-12-28 16:40:09 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\AdminManage.jsx | Size: 1131 bytes | Result: success
+2025-12-28 16:40:09 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\AdminManage.jsx
+2025-12-28 16:40:10 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: AdminManage.jsx
+2025-12-28 16:40:11 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\AdminManage.jsx
+2025-12-28 16:40:13 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Login.jsx
+2025-12-28 16:40:13 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Login.jsx | Size: 836 bytes | Result: success
+2025-12-28 16:40:13 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Login.jsx
+2025-12-28 16:40:13 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: Login.jsx
+2025-12-28 16:40:26 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Login.jsx
+2025-12-28 16:40:51 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Logs.jsx
+2025-12-28 16:40:51 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Logs.jsx | Size: 489 bytes | Result: success
+2025-12-28 16:40:51 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Logs.jsx
+2025-12-28 16:40:51 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: Logs.jsx
+2025-12-28 16:41:15 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json
+2025-12-28 16:41:15 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json | Size: 48421 bytes | Result: success
+2025-12-28 16:41:20 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: package-lock.json
+2025-12-28 16:41:20 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json
+2025-12-28 16:41:20 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json | Size: 48421 bytes | Result: success
+2025-12-28 16:41:26 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: package-lock.json
+2025-12-28 16:41:26 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json
+2025-12-28 16:41:26 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json | Size: 48421 bytes | Result: success
+2025-12-28 16:41:32 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: package-lock.json
+2025-12-28 16:41:33 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json
+2025-12-28 16:41:33 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json | Size: 48421 bytes | Result: success
+2025-12-28 16:41:39 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: package-lock.json
+2025-12-28 16:41:39 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Login.jsx
+2025-12-28 16:41:39 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Login.jsx | Size: 836 bytes | Result: success
+2025-12-28 16:41:39 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Login.jsx
+2025-12-28 16:41:41 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: Login.jsx
+2025-12-28 16:41:41 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Logs.jsx
+2025-12-28 16:41:41 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Logs.jsx | Size: 489 bytes | Result: success
+2025-12-28 16:41:41 | INFO | log_action:60 | ACTION: SYNTAX_HIGHLIGHT_FAILED | Details: 일반 텍스트로 표시: C:/Users/matim/Documents/I-Keeper Tool\frontend\src\pages\Logs.jsx
+2025-12-28 16:41:41 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: Logs.jsx
+2025-12-28 16:41:50 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json
+2025-12-28 16:41:50 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json | Size: 48421 bytes | Result: success
+2025-12-28 16:41:54 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: package-lock.json
+2025-12-28 16:41:59 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\package-lock.json
+2025-12-28 16:42:27 | INFO | log_action:60 | ACTION: FILE_SELECTED | Details: C:/Users/matim/Documents/I-Keeper Tool\package.json
+2025-12-28 16:42:27 | INFO | log_file_operation:80 | FILE_OP: READ_FILE | Path: C:/Users/matim/Documents/I-Keeper Tool\package.json | Size: 438 bytes | Result: success
+2025-12-28 16:42:29 | INFO | log_action:60 | ACTION: FILE_DISPLAY_SUCCESS | Details: package.json
+2025-12-28 16:42:31 | INFO | log_action:60 | ACTION: COPY_TREE | Details: 길이: 755 문자
+2025-12-28 16:42:58 | INFO | log_action:60 | ACTION: COPY_SINGLE_FILE | Details: C:/Users/matim/Documents/I-Keeper Tool\package.json
+2025-12-28 16:43:17 | INFO | log_action:60 | ACTION: APP_CLOSING | Details: 세션 통계: {"folders_opened": 1, "files_viewed": 42, "copies_made": 30, "errors_occurred": 0, "files_processed": 23, "files_skipped": 4}
+2025-12-28 16:43:17 | INFO | log_action:60 | ACTION: APP_END | Details: 애플리케이션 종료
