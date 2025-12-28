@@ -21,7 +21,7 @@
     "jsonwebtoken": "latest",
     "multer": "latest",
     "react-hot-toast": "latest",
-    "dotenv": "latest"
-    "vite": "latest",
+    "dotenv": "latest",
+    "vite": "latest"
   }
 }
