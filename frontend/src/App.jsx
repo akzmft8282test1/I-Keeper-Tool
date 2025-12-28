@@ -1,11 +1,7 @@
-import { Toaster } from "react-hot-toast";
-import Router from "./Router";
-
 function App() {
   return (
     <>
-      <Toaster position="top-right" />
-      <Router />
+      <h1>I-Keeper Tool</h1>
     </>
   );
 }
